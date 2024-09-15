@@ -2,7 +2,7 @@
   "cells": [
     {
       "cell_type": "code",
-      "execution_count": 263,
+      "execution_count": 4,
       "metadata": {
         "id": "wUk04TAUi459"
       },
@@ -13,7 +13,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 264,
+      "execution_count": 5,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -37,7 +37,7 @@
               " 'evelyn']"
             ]
           },
-          "execution_count": 264,
+          "execution_count": 5,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -48,7 +48,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 265,
+      "execution_count": 6,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -63,7 +63,7 @@
               "32033"
             ]
           },
-          "execution_count": 265,
+          "execution_count": 6,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -74,7 +74,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 266,
+      "execution_count": 7,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -89,7 +89,7 @@
               "2"
             ]
           },
-          "execution_count": 266,
+          "execution_count": 7,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -100,7 +100,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 267,
+      "execution_count": 8,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -115,7 +115,7 @@
               "15"
             ]
           },
-          "execution_count": 267,
+          "execution_count": 8,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -126,7 +126,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 268,
+      "execution_count": 9,
       "metadata": {
         "id": "Rjnjw_Xgi46C"
       },
@@ -142,7 +142,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 269,
+      "execution_count": 10,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -783,7 +783,7 @@
               " (('z', 'x'), 1)]"
             ]
           },
-          "execution_count": 269,
+          "execution_count": 10,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -794,7 +794,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 270,
+      "execution_count": 11,
       "metadata": {
         "id": "6G7LPewVi46C"
       },
@@ -805,7 +805,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 271,
+      "execution_count": 12,
       "metadata": {
         "id": "gZhrM-pOi46D"
       },
@@ -816,7 +816,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 272,
+      "execution_count": 13,
       "metadata": {
         "id": "8NDBWtcPi46D"
       },
@@ -839,7 +839,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 273,
+      "execution_count": 14,
       "metadata": {
         "id": "gEHIO6tAi46E"
       },
@@ -859,7 +859,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 274,
+      "execution_count": 15,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -876,7 +876,7 @@
               "       dtype=torch.int32)"
             ]
           },
-          "execution_count": 274,
+          "execution_count": 15,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -887,7 +887,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 275,
+      "execution_count": 16,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -902,7 +902,7 @@
               "torch.Size([27])"
             ]
           },
-          "execution_count": 275,
+          "execution_count": 16,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -915,7 +915,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 276,
+      "execution_count": 17,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
@@ -928,10 +928,10 @@
         {
           "data": {
             "text/plain": [
-              "'r'"
+              "'l'"
             ]
           },
-          "execution_count": 276,
+          "execution_count": 17,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -944,7 +944,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 277,
+      "execution_count": 18,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -959,7 +959,7 @@
               "tensor([0.6064, 0.3033, 0.0903])"
             ]
           },
-          "execution_count": 277,
+          "execution_count": 18,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -973,7 +973,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 278,
+      "execution_count": 19,
       "metadata": {
         "id": "ZrZXcgWilDq0"
       },
@@ -985,7 +985,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 279,
+      "execution_count": 20,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -998,11 +998,11 @@
           "name": "stdout",
           "output_type": "stream",
           "text": [
-            "quia.\n",
-            "yu.\n",
-            "quinslyntien.\n",
-            "nolliahi.\n",
-            "ha.\n"
+            "junide.\n",
+            "ilyasid.\n",
+            "prelay.\n",
+            "ocin.\n",
+            "fairritoper.\n"
           ]
         }
       ],
@@ -1025,7 +1025,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 280,
+      "execution_count": 21,
       "metadata": {
         "id": "8ytsj4kbi46I"
       },
@@ -1041,7 +1041,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 281,
+      "execution_count": 22,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1085,7 +1085,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 282,
+      "execution_count": 23,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1127,7 +1127,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 283,
+      "execution_count": 24,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1145,7 +1145,7 @@
               "        [13,  1]])"
             ]
           },
-          "execution_count": 283,
+          "execution_count": 24,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1156,7 +1156,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 284,
+      "execution_count": 25,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1171,7 +1171,7 @@
               "tensor([13, 13,  1,  0])"
             ]
           },
-          "execution_count": 284,
+          "execution_count": 25,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1182,7 +1182,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 285,
+      "execution_count": 26,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1215,7 +1215,7 @@
               "          0., 0., 0., 0., 0., 0., 0., 0., 0., 0.]]])"
             ]
           },
-          "execution_count": 285,
+          "execution_count": 26,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1228,7 +1228,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 286,
+      "execution_count": 27,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1243,7 +1243,7 @@
               "torch.Size([4, 2, 27])"
             ]
           },
-          "execution_count": 286,
+          "execution_count": 27,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1254,7 +1254,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 287,
+      "execution_count": 28,
       "metadata": {
         "id": "3ONkUFdpi46K"
       },
@@ -1265,7 +1265,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 288,
+      "execution_count": 29,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1280,7 +1280,7 @@
               "(torch.float32, torch.Size([4, 2, 27]))"
             ]
           },
-          "execution_count": 288,
+          "execution_count": 29,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1291,7 +1291,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 289,
+      "execution_count": 30,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1306,7 +1306,7 @@
               "torch.Size([4, 1])"
             ]
           },
-          "execution_count": 289,
+          "execution_count": 30,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1319,7 +1319,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 290,
+      "execution_count": 31,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1337,7 +1337,7 @@
               "        [1.]])"
             ]
           },
-          "execution_count": 290,
+          "execution_count": 31,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1351,7 +1351,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 291,
+      "execution_count": 32,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1366,7 +1366,7 @@
               "tensor([1.])"
             ]
           },
-          "execution_count": 291,
+          "execution_count": 32,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1377,7 +1377,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 292,
+      "execution_count": 33,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1392,7 +1392,7 @@
               "torch.Size([1])"
             ]
           },
-          "execution_count": 292,
+          "execution_count": 33,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1403,7 +1403,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 293,
+      "execution_count": 34,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1418,7 +1418,7 @@
               "tensor(1.)"
             ]
           },
-          "execution_count": 293,
+          "execution_count": 34,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1429,7 +1429,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 294,
+      "execution_count": 35,
       "metadata": {
         "id": "55xBd-7qi46M"
       },
@@ -1440,7 +1440,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 295,
+      "execution_count": 36,
       "metadata": {
         "id": "dZDC2CLyi46M"
       },
@@ -1451,7 +1451,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 296,
+      "execution_count": 37,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1469,7 +1469,7 @@
               "        [13,  1]])"
             ]
           },
-          "execution_count": 296,
+          "execution_count": 37,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1480,7 +1480,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 297,
+      "execution_count": 38,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1495,7 +1495,7 @@
               "tensor([13, 13,  1,  0])"
             ]
           },
-          "execution_count": 297,
+          "execution_count": 38,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1506,7 +1506,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 298,
+      "execution_count": 39,
       "metadata": {
         "id": "B5NV-bsUi46M"
       },
@@ -1519,7 +1519,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 299,
+      "execution_count": 40,
       "metadata": {
         "id": "15mHv4QVi46M"
       },
@@ -1534,7 +1534,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 300,
+      "execution_count": 41,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1549,7 +1549,7 @@
               "torch.Size([4, 27])"
             ]
           },
-          "execution_count": 300,
+          "execution_count": 41,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1560,7 +1560,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 301,
+      "execution_count": 42,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1645,7 +1645,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 302,
+      "execution_count": 43,
       "metadata": {
         "id": "_pTlg9Hoi46N"
       },
@@ -1656,7 +1656,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 303,
+      "execution_count": 44,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1674,7 +1674,7 @@
               "        [13,  1]])"
             ]
           },
-          "execution_count": 303,
+          "execution_count": 44,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1685,7 +1685,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 304,
+      "execution_count": 45,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1700,7 +1700,7 @@
               "tensor([13, 13,  1,  0])"
             ]
           },
-          "execution_count": 304,
+          "execution_count": 45,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1711,7 +1711,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 305,
+      "execution_count": 46,
       "metadata": {
         "id": "bwB_Mbbbi46N"
       },
@@ -1724,7 +1724,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 306,
+      "execution_count": 47,
       "metadata": {
         "id": "QDU5xLfui46O"
       },
@@ -1740,7 +1740,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 92,
+      "execution_count": 48,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1763,7 +1763,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 93,
+      "execution_count": 49,
       "metadata": {
         "id": "Cna1ehgQi46O"
       },
@@ -1776,7 +1776,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 94,
+      "execution_count": 50,
       "metadata": {
         "id": "arYp8z6Ui46O"
       },
@@ -1787,7 +1787,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 95,
+      "execution_count": 51,
       "metadata": {
         "id": "MuvEmTN1i46O"
       },
@@ -1798,7 +1798,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 96,
+      "execution_count": 52,
       "metadata": {
         "id": "S0rwdEK6i46O"
       },
@@ -1826,7 +1826,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 97,
+      "execution_count": 53,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1840,8 +1840,8 @@
           "output_type": "stream",
           "text": [
             "2.2735965251922607\n",
-            "2.273299217224121\n",
-            "2.2730088233947754\n",
+            "2.2732996940612793\n",
+            "2.273008346557617\n",
             "2.272723436355591\n"
           ]
         }
@@ -1881,7 +1881,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 98,
+      "execution_count": 54,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1899,7 +1899,7 @@
               "         0., 0., 0., 0., 0., 0., 0., 0., 0.]])"
             ]
           },
-          "execution_count": 98,
+          "execution_count": 54,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -1911,7 +1911,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 99,
+      "execution_count": 55,
       "metadata": {
         "id": "_-YIRwCXi46W"
       },
@@ -1922,7 +1922,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 100,
+      "execution_count": 56,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -1935,11 +1935,11 @@
           "name": "stdout",
           "output_type": "stream",
           "text": [
-            "rtn.\n",
-            "ayo.\n",
-            "rnonvnsrynbs.\n",
-            "ejeiiaelaea.\n",
-            "uuuutuzcuunaudlunujuehqbuqamkouuuouumulorxvpx.\n"
+            "ouokdekiakakahoa.\n",
+            "lsarwe.\n",
+            "rer.\n",
+            "ui.\n",
+            "rito.\n"
           ]
         }
       ],
@@ -1993,7 +1993,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 101,
+      "execution_count": 57,
       "metadata": {
         "id": "jj0Ql-Nli46e"
       },
@@ -2014,7 +2014,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 102,
+      "execution_count": 58,
       "metadata": {
         "id": "GbCfw6Rhi46e"
       },
@@ -2029,7 +2029,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 103,
+      "execution_count": 59,
       "metadata": {
         "id": "bpSD74sAi46e"
       },
@@ -2042,7 +2042,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 104,
+      "execution_count": 60,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2057,7 +2057,7 @@
               "(torch.Size([182516, 27]), torch.Size([22815]), torch.Size([22815]))"
             ]
           },
-          "execution_count": 104,
+          "execution_count": 60,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -2068,7 +2068,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 105,
+      "execution_count": 61,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2087,10 +2087,10 @@
             "Training loss: 2.462329864501953 and the dev set loss: 2.6143789291381836\n",
             "Training loss: 2.4621260166168213 and the dev set loss: 2.61409854888916\n",
             "Training loss: 2.4619271755218506 and the dev set loss: 2.6138250827789307\n",
-            "Training loss: 2.461733341217041 and the dev set loss: 2.613558530807495\n",
+            "Training loss: 2.461733102798462 and the dev set loss: 2.613558530807495\n",
             "Training loss: 2.4615445137023926 and the dev set loss: 2.613295316696167\n",
             "Training loss: 2.461360216140747 and the dev set loss: 2.6130406856536865\n",
-            "Training loss: 2.4611804485321045 and the dev set loss: 2.612790107727051\n",
+            "Training loss: 2.4611806869506836 and the dev set loss: 2.612790107727051\n",
             "Mean of the last 10 training loss:  2.4620471239089965\n",
             "Mean of the last 10 dev set loss:  2.613987398147583\n"
           ]
@@ -2146,7 +2146,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 106,
+      "execution_count": 62,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2193,7 +2193,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 312,
+      "execution_count": 63,
       "metadata": {
         "id": "trQvBg_8i46i"
       },
@@ -2215,7 +2215,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 313,
+      "execution_count": 64,
       "metadata": {
         "id": "v5QXkpqsi46i"
       },
@@ -2234,7 +2234,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 109,
+      "execution_count": 65,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2247,18 +2247,18 @@
           "name": "stdout",
           "output_type": "stream",
           "text": [
-            "Training loss: 2.23776912689209 and the dev set loss: 2.4524118900299072\n",
-            "Training loss: 2.2374212741851807 and the dev set loss: 2.4520208835601807\n",
-            "Training loss: 2.237081527709961 and the dev set loss: 2.451639175415039\n",
-            "Training loss: 2.2367494106292725 and the dev set loss: 2.451265335083008\n",
-            "Training loss: 2.236424446105957 and the dev set loss: 2.4509003162384033\n",
-            "Training loss: 2.236107110977173 and the dev set loss: 2.4505436420440674\n",
-            "Training loss: 2.2357964515686035 and the dev set loss: 2.4501943588256836\n",
-            "Training loss: 2.235492467880249 and the dev set loss: 2.44985294342041\n",
-            "Training loss: 2.235194444656372 and the dev set loss: 2.449518918991089\n",
+            "Training loss: 2.2377688884735107 and the dev set loss: 2.452411651611328\n",
+            "Training loss: 2.2374212741851807 and the dev set loss: 2.4520211219787598\n",
+            "Training loss: 2.23708176612854 and the dev set loss: 2.45163893699646\n",
+            "Training loss: 2.2367496490478516 and the dev set loss: 2.451265335083008\n",
+            "Training loss: 2.236424684524536 and the dev set loss: 2.4509005546569824\n",
+            "Training loss: 2.2361068725585938 and the dev set loss: 2.450543165206909\n",
+            "Training loss: 2.2357964515686035 and the dev set loss: 2.4501945972442627\n",
+            "Training loss: 2.235492467880249 and the dev set loss: 2.449852705001831\n",
+            "Training loss: 2.235194683074951 and the dev set loss: 2.4495184421539307\n",
             "Training loss: 2.234903573989868 and the dev set loss: 2.4491918087005615\n",
-            "Mean of the last 10 training loss:  2.236293983459473\n",
-            "Mean of the last 10 dev set loss:  2.450753927230835\n"
+            "Mean of the last 10 training loss:  2.2362940311431885\n",
+            "Mean of the last 10 dev set loss:  2.4507538318634032\n"
           ]
         }
       ],
@@ -2303,7 +2303,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 110,
+      "execution_count": 66,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2316,7 +2316,7 @@
           "name": "stdout",
           "output_type": "stream",
           "text": [
-            "Test loss:  2.4469966888427734\n"
+            "Test loss:  2.4469964504241943\n"
           ]
         }
       ],
@@ -2356,7 +2356,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 111,
+      "execution_count": 67,
       "metadata": {
         "id": "cVC9TZS7i46j"
       },
@@ -2367,7 +2367,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 112,
+      "execution_count": 68,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2381,48 +2381,48 @@
           "output_type": "stream",
           "text": [
             "---------with smooting value of 1-------------\n",
-            "Mean of training loss:  2.6055288100242615\n",
-            "Mean of dev set loss:  2.5872700142860414\n",
+            "Mean of training loss:  2.6055288219451906\n",
+            "Mean of dev set loss:  2.587269995212555\n",
             "----------------------------\n",
             "---------with smooting value of 0.5-------------\n",
-            "Mean of training loss:  2.5151593542099\n",
-            "Mean of dev set loss:  2.557986719608307\n",
+            "Mean of training loss:  2.5151593708992004\n",
+            "Mean of dev set loss:  2.5579867601394652\n",
             "----------------------------\n",
             "---------with smooting value of 0.1-------------\n",
-            "Mean of training loss:  2.3942275857925415\n",
-            "Mean of dev set loss:  2.5475563406944275\n",
+            "Mean of training loss:  2.394227588176727\n",
+            "Mean of dev set loss:  2.547556335926056\n",
             "----------------------------\n",
             "---------with smooting value of 0.05-------------\n",
-            "Mean of training loss:  2.368103895187378\n",
-            "Mean of dev set loss:  2.5511179327964784\n",
+            "Mean of training loss:  2.36810387134552\n",
+            "Mean of dev set loss:  2.5511179399490356\n",
             "----------------------------\n",
             "---------with smooting value of 0.01-------------\n",
-            "Mean of training loss:  2.3415348315238953\n",
-            "Mean of dev set loss:  2.5562044095993044\n",
+            "Mean of training loss:  2.3415348410606383\n",
+            "Mean of dev set loss:  2.5562044477462766\n",
             "----------------------------\n",
             "---------with smooting value of 0.005-------------\n",
-            "Mean of training loss:  2.3377080392837524\n",
-            "Mean of dev set loss:  2.5570207262039184\n",
+            "Mean of training loss:  2.3377080178260803\n",
+            "Mean of dev set loss:  2.5570207142829897\n",
             "----------------------------\n",
             "---------with smooting value of 0.001-------------\n",
-            "Mean of training loss:  2.334548397064209\n",
-            "Mean of dev set loss:  2.557706673145294\n",
+            "Mean of training loss:  2.3345483493804933\n",
+            "Mean of dev set loss:  2.5577066493034364\n",
             "----------------------------\n",
             "---------with smooting value of 0.0005-------------\n",
-            "Mean of training loss:  2.334147057533264\n",
-            "Mean of dev set loss:  2.5577945470809937\n",
+            "Mean of training loss:  2.3341470313072206\n",
+            "Mean of dev set loss:  2.557794568538666\n",
             "----------------------------\n",
             "---------with smooting value of 0.0001-------------\n",
-            "Mean of training loss:  2.3338249206542967\n",
-            "Mean of dev set loss:  2.557865195274353\n",
+            "Mean of training loss:  2.3338249111175537\n",
+            "Mean of dev set loss:  2.557865204811096\n",
             "----------------------------\n",
             "---------with smooting value of 5e-05-------------\n",
-            "Mean of training loss:  2.3337846159935\n",
-            "Mean of dev set loss:  2.55787401676178\n",
+            "Mean of training loss:  2.333784589767456\n",
+            "Mean of dev set loss:  2.557874038219452\n",
             "----------------------------\n",
             "---------with smooting value of 1e-05-------------\n",
-            "Mean of training loss:  2.3337523221969603\n",
-            "Mean of dev set loss:  2.5578811287879946\n",
+            "Mean of training loss:  2.333752300739288\n",
+            "Mean of dev set loss:  2.5578811383247375\n",
             "----------------------------\n"
           ]
         }
@@ -2514,7 +2514,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 115,
+      "execution_count": 69,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/"
@@ -2529,7 +2529,7 @@
               "tensor([0, 5])"
             ]
           },
-          "execution_count": 115,
+          "execution_count": 69,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -2540,7 +2540,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 324,
+      "execution_count": 70,
       "metadata": {},
       "outputs": [],
       "source": [
@@ -2550,16 +2550,16 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 309,
+      "execution_count": 71,
       "metadata": {},
       "outputs": [
         {
           "data": {
             "text/plain": [
-              "(torch.Size([4, 27]), torch.Size([4]))"
+              "(torch.Size([156890, 27]), torch.Size([196113]))"
             ]
           },
-          "execution_count": 309,
+          "execution_count": 71,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -2572,7 +2572,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 317,
+      "execution_count": 72,
       "metadata": {},
       "outputs": [
         {
@@ -2584,7 +2584,7 @@
               " torch.Size([196113, 2]))"
             ]
           },
-          "execution_count": 317,
+          "execution_count": 72,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -2595,7 +2595,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 328,
+      "execution_count": 73,
       "metadata": {},
       "outputs": [
         {
@@ -2613,16 +2613,16 @@
               "        ...,\n",
               "\n",
               "        [[0., 0., 0.,  ..., 0., 0., 1.],\n",
-              "         [0., 0., 0.,  ..., 0., 1., 0.]],\n",
+              "         [0., 0., 0.,  ..., 0., 0., 0.]],\n",
               "\n",
               "        [[0., 0., 0.,  ..., 0., 1., 0.],\n",
-              "         [0., 0., 0.,  ..., 0., 0., 1.]],\n",
+              "         [0., 0., 0.,  ..., 0., 0., 0.]],\n",
               "\n",
               "        [[0., 0., 0.,  ..., 0., 0., 1.],\n",
-              "         [0., 0., 0.,  ..., 1., 0., 0.]]])"
+              "         [0., 0., 0.,  ..., 0., 0., 0.]]])"
             ]
           },
-          "execution_count": 328,
+          "execution_count": 73,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -2634,7 +2634,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 329,
+      "execution_count": 74,
       "metadata": {},
       "outputs": [],
       "source": [
@@ -2643,7 +2643,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 332,
+      "execution_count": 75,
       "metadata": {},
       "outputs": [
         {
@@ -2655,7 +2655,7 @@
               "         0., 0., 0., 0., 0., 0., 0., 0., 0.]])"
             ]
           },
-          "execution_count": 332,
+          "execution_count": 75,
           "metadata": {},
           "output_type": "execute_result"
         }
@@ -2666,7 +2666,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 333,
+      "execution_count": 76,
       "metadata": {},
       "outputs": [
         {
@@ -2675,13 +2675,156 @@
               "True"
             ]
           },
-          "execution_count": 333,
+          "execution_count": 76,
           "metadata": {},
           "output_type": "execute_result"
         }
       ],
       "source": [
         "torch.allclose(xenc_pre, xenc)"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "The above one is just my experment for doing it complicated."
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 169,
+      "metadata": {},
+      "outputs": [
+        {
+          "data": {
+            "text/plain": [
+              "tensor(0)"
+            ]
+          },
+          "execution_count": 169,
+          "metadata": {},
+          "output_type": "execute_result"
+        }
+      ],
+      "source": [
+        "X = Xtr[0][0]\n",
+        "X "
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 165,
+      "metadata": {},
+      "outputs": [
+        {
+          "data": {
+            "text/plain": [
+              "tensor([1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,\n",
+              "        0., 0., 0., 0., 0., 0., 0., 0., 0.])"
+            ]
+          },
+          "execution_count": 165,
+          "metadata": {},
+          "output_type": "execute_result"
+        }
+      ],
+      "source": [
+        "xenc = F.one_hot(X, num_classes=27).float() \n",
+        "xenc\n"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 166,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "W = torch.randn((27, 27))"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 172,
+      "metadata": {},
+      "outputs": [
+        {
+          "data": {
+            "text/plain": [
+              "(tensor([1., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0., 0.,\n",
+              "         0., 0., 0., 0., 0., 0., 0., 0., 0.]),\n",
+              " torch.Size([27, 27]))"
+            ]
+          },
+          "execution_count": 172,
+          "metadata": {},
+          "output_type": "execute_result"
+        }
+      ],
+      "source": [
+        "xenc, W.shape"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 178,
+      "metadata": {},
+      "outputs": [
+        {
+          "data": {
+            "text/plain": [
+              "tensor([-0.5788,  1.9010, -1.2157, -1.3213, -0.6448,  0.1467,  1.0193, -0.9134,\n",
+              "         0.0464, -0.7458,  1.3734,  0.0858,  0.5681,  1.5703,  0.2425, -0.1965,\n",
+              "         1.3325, -0.1819, -1.4435, -1.0018, -0.5779,  1.6447,  0.9166, -1.3651,\n",
+              "         0.2190, -0.5760,  0.7949])"
+            ]
+          },
+          "execution_count": 178,
+          "metadata": {},
+          "output_type": "execute_result"
+        }
+      ],
+      "source": [
+        "W[X]"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 181,
+      "metadata": {},
+      "outputs": [],
+      "source": [
+        "logits = xenc @ W"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 182,
+      "metadata": {},
+      "outputs": [
+        {
+          "data": {
+            "text/plain": [
+              "tensor([-0.5788,  1.9010, -1.2157, -1.3213, -0.6448,  0.1467,  1.0193, -0.9134,\n",
+              "         0.0464, -0.7458,  1.3734,  0.0858,  0.5681,  1.5703,  0.2425, -0.1965,\n",
+              "         1.3325, -0.1819, -1.4435, -1.0018, -0.5779,  1.6447,  0.9166, -1.3651,\n",
+              "         0.2190, -0.5760,  0.7949])"
+            ]
+          },
+          "execution_count": 182,
+          "metadata": {},
+          "output_type": "execute_result"
+        }
+      ],
+      "source": [
+        "logits"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "metadata": {},
+      "source": [
+        "As we can see that they are the same."
       ]
     },
     {
@@ -2742,6 +2885,7 @@
       "source": [
         "# # initialize the 'network'\n",
         "g = torch.Generator().manual_seed(2147483647)\n",
+        "# This is not a trigram, but I am too lazy to change it\n",
         "W_trigram = torch.randn((27, 27), generator=g, requires_grad=True)\n",
         "print(f\"---------with smooting value of {r}-------------\")\n",
         "train_loss = []\n",
@@ -2847,7 +2991,7 @@
       "name": "python",
       "nbconvert_exporter": "python",
       "pygments_lexer": "ipython3",
-      "version": "3.9.12"
+      "version": "3.12.2"
     },
     "vscode": {
       "interpreter": {

@@ -1804,7 +1804,7 @@
       "cell_type": "markdown",
       "metadata": {},
       "source": [
-        "We can tell the model is not learning at all. The t.std()/p.std()) is the gradient of the scale of the trainable parameter of the linear layer per scale of the trainable parameters. It is getting close to zero into the later layers."
+        "We can tell the model is not learning at all. The t.std()/p.std()) is the gradient of the scale of the trainable parameter of the linear layer per scale of the trainable parameters. Most of them are collapsed into one. I think it means the model or the weight matrix is learning one feature. That is because the model starts its optimizing process, and all the weight values start from 0(possibly happening in any constant). As a result, the gradient of loss with respect to the weight will optimize the weights in the same direction as the gradient descent process."
       ]
     },
     {
